@@ -1,0 +1,16 @@
+keras-facenet
+numpy
+opencv-python
+scikit-learn
+pickle5
+easyocr
+sympy --upgrade
+torch --upgrade
+torchvision --upgrade
+torchaudio --upgrade
+
+google-cloud-storage
+firebase
+firebase_admin
+
+firebase-Functions
